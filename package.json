@@ -1,10 +1,10 @@
 {
-  "name": "jwt-decode",
+  "name": "jwt-decoder",
   "version": "0.0.0",
   "description": "CLI utility to decode JWTs",
   "bin": "bin/index.js",
   "scripts": {
-    "test": "jwt-decode test_jwt.json"
+    "test": "jwt-decoder test_jwt.json"
   },
   "keywords": [
     "jwt",
